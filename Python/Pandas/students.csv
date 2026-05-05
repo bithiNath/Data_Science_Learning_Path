@@ -1,0 +1,21 @@
+StudentID,Name,Gender,Age,City,Department,Score,Grade,Fee,Paid,JoinDate,Marks,Attendance,Phone,Email
+101,Ali Ahmed,M,22,Dhaka,CSE,85,B,5000,True,2022-01-15,88.0,90,01711111111,ali@gmail.com
+102,Bob Khan,M,25,London,BBA,90,A,6000,True,2021-06-20,92.0,95,01722222222,bob@gmail.com
+103,Sara Islam,F,23,Dhaka,CSE,78,C,5000,False,2022-03-10,,85,01733333333,sara@gmail.com
+104,John Doe,M,24,Paris,EEE,92,A,7000,True,2020-09-01,95.0,98,01744444444,john@gmail.com
+105,Mia Rahman,F,22,London,BBA,88,B,6000,False,2021-11-25,85.0,88,01755555555,mia@gmail.com
+106,Tom Hasan,M,26,Dhaka,CSE,70,C,5000,True,2022-01-15,,72,01766666666,tom@gmail.com
+107,Emma Akter,F,23,Paris,EEE,95,A,7000,True,2020-09-01,97.0,99,01777777777,emma@gmail.com
+108,Ray Molla,M,25,London,BBA,80,B,6000,False,2021-06-20,80.0,80,01788888888,ray@gmail.com
+109,Nina Begum,F,24,Dhaka,EEE,73,C,7000,True,2022-03-10,,78,01799999999,nina@gmail.com
+110,Leo Chowdhury,M,22,Paris,CSE,91,A,5000,True,2020-09-01,93.0,96,01700000000,leo@gmail.com
+111,Riya Sen,F,21,Dhaka,BBA,67,C,6000,False,2023-01-10,70.0,65,01711100001,riya@gmail.com
+112,Karim Uddin,M,27,Paris,EEE,88,B,7000,True,2019-08-15,90.0,91,01722200002,karim@gmail.com
+113,Priya Das,F,22,London,CSE,76,C,5000,True,2022-07-20,,80,01733300003,priya@gmail.com
+114,Nabil Islam,M,24,Dhaka,BBA,94,A,6000,True,2021-03-05,96.0,97,01744400004,nabil@gmail.com
+115,Sadia Khatun,F,23,Paris,CSE,82,B,5000,False,2022-09-12,84.0,87,01755500005,sadia@gmail.com
+116,Arif Hossain,M,25,London,EEE,69,C,7000,True,2021-05-18,,70,01766600006,arif@gmail.com
+117,Tania Akter,F,22,Dhaka,BBA,91,A,6000,True,2022-02-28,93.0,94,01777700007,tania@gmail.com
+118,Rakib Hassan,M,23,Paris,CSE,77,C,5000,False,2022-11-01,79.0,75,01788800008,rakib@gmail.com
+119,Faria Noor,F,26,London,EEE,86,B,7000,True,2020-04-14,88.0,89,01799900009,faria@gmail.com
+120,Sabbir Ahmed,M,21,Dhaka,BBA,93,A,6000,True,2023-03-22,95.0,98,01700000010,sabbir@gmail.com
